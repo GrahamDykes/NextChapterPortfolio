@@ -1,0 +1,28 @@
+.recentprojects{
+    margin-top:40px;
+}
+.projectdiv{
+    /* border:solid green 2px; */
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 90vh;
+    padding: 25px;
+    
+}
+.project{
+    /* border:solid red 2px; */
+    width:50%;
+}
+
+.projectimage:hover {
+    transform: scale(1.2);
+  }
+
+.projectimage{
+    background:blue;
+    height:80%;
+    width:40%;
+    margin:auto;
+    border-radius: 10%;
+}

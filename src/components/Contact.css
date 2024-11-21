@@ -1,0 +1,49 @@
+.contact{
+    margin-top:40px;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+.contacticon{
+    color:red;
+    margin-left: 40px;
+}
+.contacticon:hover{
+    color:yellow;
+    transform: scale(1.5);
+}
+a{
+    margin-left: 40px;
+    color:grey;
+}
+a:hover{
+    color:yellow;
+    transform: scale(1.5);
+
+}
+div{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.contactform{
+border:solid grey 4px;
+width:30%;
+}
+
+.marginToppy{
+    margin-top:15px;
+    margin-bottom: 15px;
+    padding:5px;
+    font-weight: 900;
+    background-color: black;
+    color:chartreuse;
+    border:2px solid chartreuse;
+}
+
+.greenBorder{
+    border: 2px solid chartreuse;
+    background-color: black;
+    color:chartreuse;
+    
+}

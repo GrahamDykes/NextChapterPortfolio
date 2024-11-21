@@ -1,0 +1,37 @@
+*, body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: black;
+}
+h1 {
+  color: chartreuse;
+}
+p {
+  color: chartreuse;
+}
+div{
+  color:chartreuse;
+}
+header {
+  color: chartreuse;
+  width: 100%;
+  /* border:solid yellow 1px; */
+  text-align:center;
+  font-size:xxx-large;
+}
+
+em{
+  /* font-style: bold; */
+  font-size:140%;
+  font-style:normal;
+}
+
+.heroimage{
+  border-radius: 10%;
+  margin-top:40px;
+}
